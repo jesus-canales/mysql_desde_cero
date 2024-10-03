@@ -1,4 +1,4 @@
-# REGISTRO Y GESTIÓN DE CONSULTAS
+# REGISTRO Y GESTIÓN DE CONSULTAS 
 
 ## Descripción de caso
 
