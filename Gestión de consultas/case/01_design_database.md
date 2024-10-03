@@ -10,4 +10,4 @@
 
 ## Diccionario de Datos
 
-![Diccionario de Datos](/Gestión%20de%20consultas/resources/df_Consultas_Carreras.pdf)
+[(Haz click aquí) Ver Diccionario de Datos del Diseño de Base de Datos Consultas_Carreras](/Gestión%20de%20consultas/resources/df_Consultas_Carreras.pdf)
